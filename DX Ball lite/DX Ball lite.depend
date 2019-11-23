@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1532828992 source:c:\users\tj\desktop\project\dx ball lite\dx ball.cpp
+	"iGraphics.h"
+	<string.h>
+
+1531921974 c:\users\tj\desktop\project\dx ball lite\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530805309 c:\users\tj\desktop\project\dx ball lite\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530805309 c:\users\tj\desktop\project\dx ball lite\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530817003 c:\users\tj\desktop\project\dx ball lite\texturelist.h
+	"texture.h"
+
+1530805310 c:\users\tj\desktop\project\dx ball lite\texture.h
+
+1530812560 source:c:\users\tj\desktop\project\dx ball lite\picturedemo.cpp
+	"iGraphics.h"
+
