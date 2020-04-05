@@ -6,7 +6,7 @@ A simple DX ball game built on iGraphics.
 Platform: Windows
 
 
-Developer:
+Developers:
 
 Md. Mahedi Hasan Rigan
 
